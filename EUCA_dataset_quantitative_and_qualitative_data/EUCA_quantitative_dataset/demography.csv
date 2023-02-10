@@ -1,0 +1,33 @@
+P,Age,Gender,Edu,Major/Industry,AI,opinion,opinion_cleaned,house,health,car,bird
+1,38,M,Bachelor,computer science,program but not in AI,interested,Positive,TRUE,TRUE,TRUE,TRUE
+2,26,M,PhD,HCI,program but not in AI,"concerned, interested, excited",Mixed,FALSE,TRUE,FALSE,TRUE
+3,29,F,PhD,HCI,use AI (Google) to reminders/navigation/daily use/play music or video etc.,interested,Positive,TRUE,FALSE,TRUE,FALSE
+4,28,M,Master,HCI,program but not in AI,"concerned, interested, excited",Mixed,TRUE,FALSE,TRUE,FALSE
+5,40,F,Trade,editing,heard,"concerned, interested, excited",Mixed,FALSE,FALSE,TRUE,TRUE
+6,21,F,Some college credit,psychology,use AI (Google home) to play music,"concerned, skeptical, interested",Mixed,FALSE,TRUE,FALSE,TRUE
+7,62,M,Bachelor,,,,,TRUE,FALSE,TRUE,FALSE
+8,22,F,high school,computer science,program but not write AI code,excited,Positive,FALSE,TRUE,FALSE,TRUE
+9,40,M,Bachelor,Business developmet & sales (IT),use AI (Google navigator) to traffic & directions,excited,Positive,FALSE,FALSE,TRUE,TRUE
+10,19,M,high school,cooking,heard,neutral,Neutral,TRUE,FALSE,FALSE,TRUE
+11,30,F,Bachelor,IT,program but not write AI code,interested,Positive,TRUE,FALSE,FALSE,TRUE
+12,48,F,high school,,heard,neutral,Neutral,TRUE,FALSE,FALSE,TRUE
+13,53,M,Bachelor,customer service,heard,"concerned, skeptical",Negative,FALSE,TRUE,TRUE,FALSE
+14,47,M,Some college credit,healthcare-sterilzation work,never,interested,Positive,TRUE,FALSE,FALSE,TRUE
+15,73,M,professional,retired,heard,skeptical,Negative,FALSE,FALSE,TRUE,FALSE
+16,34,F,professional,law,heard,"concerned, interested, excited",Mixed,FALSE,TRUE,FALSE,TRUE
+17,70,M,Bachelor,retired,heard,neutral,Neutral,FALSE,TRUE,TRUE,FALSE
+18,27,M,Some college credit,General studies & legal studies,heard,"skeptical, neutral, excited",Mixed,FALSE,FALSE,FALSE,TRUE
+19,35,F,Bachelor,Government/social services (employment services for indigenous peoples),heard,"concerned, skeptical, interested, excited",Mixed,TRUE,FALSE,TRUE,FALSE
+20,30,M,Bachelor,Food industry,heard,"concerned, skeptical, interested, excited",Mixed,TRUE,FALSE,FALSE,FALSE
+21,26,F,Bachelor,Interior designer,use AI (chatting with clients),"concerned, interested, excited",Mixed,FALSE,FALSE,TRUE,FALSE
+22,23,F,Some college credit,Student (RMT); Work (hospitality (restaurant),heard,"concerned, skeptical, excited",Mixed,FALSE,TRUE,FALSE,FALSE
+23,31,M,Master,Accountant,use AI (google Home) to preferred music/movie,excited,Positive,FALSE,TRUE,FALSE,FALSE
+24,41,M,Bachelor,Financial industry,use AI (investiment software) to help drive investiment decisions,excited,Positive,FALSE,TRUE,FALSE,FALSE
+25,72,M,Master,retired,heard,"concerned, interested, excited",Mixed,FALSE,TRUE,FALSE,FALSE
+26,70,F,Bachelor,retired,heard,"skeptical, interested",Mixed,FALSE,FALSE,FALSE,TRUE
+27,28,F,Bachelor,hosptality,heard,interested,Positive,FALSE,FALSE,TRUE,FALSE
+28,28,M,Trade,Marlcotins sale,heard,interested,Positive,FALSE,TRUE,FALSE,FALSE
+29,43,F,Bachelor,Project managment in construction (currently no job),heard,"concerned, interested, excited",Mixed,TRUE,FALSE,FALSE,FALSE
+30,24,F,Master,Computer science,program but not write AI code,concerned,Negative,TRUE,FALSE,FALSE,FALSE
+31,25,F,Bachelor,psychology office worker,heard,interested,Positive,FALSE,TRUE,FALSE,FALSE
+32,39,F,Bachelor,car insurance,heard,excited,Positive,FALSE,FALSE,TRUE,FALSE

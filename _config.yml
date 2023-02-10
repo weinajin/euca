@@ -1,0 +1,33 @@
+theme: jekyll-theme-minimal
+title: "EUCA: End-User-Centered Explainable AI Framework"
+description: A practical prototyping tool to design explainable AI for non-technical end-users.
+author: Weina Jin
+
+navigation:
+  - title: EUCA Homepage
+    url: /
+  - title: End-User-Friendly Explanatory Forms
+    url: /explanation_form.html
+    subnav:
+      - title: Feature-based explanation
+        url: /explanation_form.html#fa
+        subnav:
+          - title: Feature attribute
+            url: /explanation_form.html#fa
+  - title: Explanation Goals
+    url: /need
+
+logo: assets/img/euca_logo.png
+
+
+
+
+
+
+
+
+
+
+
+
+
