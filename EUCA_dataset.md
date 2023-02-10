@@ -10,7 +10,7 @@ Weina Jin, Jianyu Fan, Diane Gromala, Philippe Pasquier, Ghassan Hamarneh
 
 EUCA dataset is for modelling personalized or interactive explainable AI. It contains 309 data points of 32 end-users' preferences on 12 forms of explanation (including feature-, example-, and rule-based explanations). The data were collected from a user study on 32 layperson participants in the Greater Vancouver city area in 2019-2020. In the user study, the participants (P01-P32) were presented with AI-assisted critical tasks on house price prediction, health status prediction, purchasing a self-driving car, and studying for a biological exam [1]. Within each task and for its given explanation goal [2], the participants selected and rank the explanation forms [3] that they saw the most suitable. 
 
-1. [ExplanatoryFormRanking.csv](https://github.com/weinajin/euca/blob/master/EUCA_dataset_quantitative_and_qualitative_data/EUCA_quantitative_dataset/ExplanatoryFormRanking.csv)
+1. [ExplanationFormRanking.csv](https://github.com/weinajin/euca/blob/master/EUCA_dataset_quantitative_and_qualitative_data/EUCA_quantitative_dataset/ExplanationFormRanking.csv)
 
    **Column description**:
 
