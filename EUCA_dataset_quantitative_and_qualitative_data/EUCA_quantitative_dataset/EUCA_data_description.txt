@@ -116,7 +116,7 @@ Decision Tree - dt
 Decision Flow - df
 
 
-4. Supplementary Information
+4. Contextual Information
 Input
 Output
 Performance

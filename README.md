@@ -50,7 +50,7 @@ The 12 explanation forms in EUCA framework are:
 7. [Rule](explanation_form.md/#rl)  
 8. [Decision Tree](explanation_form.md/#dt)  
 
-## [Supplementary information](explanation_form.md/#suppl)  
+## [Contextual information](explanation_form.md/#suppl)  
 9. [Input](explanation_form.md/#input)  
 10. [Output](explanation_form.md/#output)  
 11. [Performance](explanation_form.md/#perf)  
@@ -103,7 +103,7 @@ The 12 explanation forms in EUCA framework are:
 
 # <a name="template"></a> Prototyping materials for download
 We provide the following prototyping materials:
-1. Templates: Blank cards card grids with their explanatory type name
+1. Templates: Blank cards card grids with their explanation form names
 2. Examples: We demonstrate creating prototype for tabular or sequential input, and for image input respectively. 
 * **House**: House price prediction. Tabular input data
 * **Health** : Diabetes risk prediction. Sequential or tabular input
@@ -139,7 +139,7 @@ Here is our research paper: [Arxiv](https://arxiv.org/abs/2102.02437)
 }
 ```
 
-[Supplementary Material S1 - Literature Review on Explanatory Forms](paper/SupplementaryMaterialS1_LitReview.pdf)
+[Supplementary Material S1 - Literature Review on Explanation Forms](paper/SupplementaryMaterialS1_LitReview.pdf)
 
 [Supplementary Material S2 - User Study Details and Quantitative Analysis Report](paper/SupplementaryMaterialS2_UserStudy.pdf)
 

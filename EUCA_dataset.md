@@ -10,7 +10,7 @@ Weina Jin, Jianyu Fan, Diane Gromala, Philippe Pasquier, Ghassan Hamarneh
 
 EUCA dataset is for modelling personalized or interactive explainable AI. It contains 309 data points of 32 end-users' preferences on 12 forms of explanation (including feature-, example-, and rule-based explanations). The data were collected from a user study on 32 layperson participants in the Greater Vancouver city area in 2019-2020. In the user study, the participants (P01-P32) were presented with AI-assisted critical tasks on house price prediction, health status prediction, purchasing a self-driving car, and studying for a biological exam [1]. Within each task and for its given explanation goal [2], the participants selected and rank the explanation forms [3] that they saw the most suitable. 
 
-1. [EUCA_EndUserXAI_ExplanatoryFormRanking.csv](https://github.com/weinajin/euca/blob/master/SupplementaryMaterialS3_EUCA_Dataset/EUCA_EndUserXAI_ExplanatoryFormRanking.csv)
+1. [ExplanatoryFormRanking.csv](https://github.com/weinajin/euca/blob/master/EUCA_dataset_quantitative_and_qualitative_data/EUCA_quantitative_dataset/ExplanatoryFormRanking.csv)
 
    **Column description**:
 
@@ -21,11 +21,11 @@ EUCA dataset is for modelling personalized or interactive explainable AI. It con
    - **1st, 2nd, 3rd, ...** - explanation form card selection and ranking 
      cards fulfill requirement? - After the card selection, participants were asked whether the selected card combination fulfill their explainability requirement.
 
-2. [EUCA_EndUserXAI_demography.csv](https://github.com/weinajin/euca/blob/master/SupplementaryMaterialS3_EUCA_Dataset/EUCA_EndUserXAI_demography.csv)
+2. [demography.csv](https://github.com/weinajin/euca/blob/master/EUCA_dataset_quantitative_and_qualitative_data/EUCA_quantitative_dataset/demography.csv)
 
    It contains the participants demographics, including their age, gender, educational background, and their knowledge and attitudes toward AI.
 
-[EUCA dataset zip file for download](https://github.com/weinajin/euca/blob/master/SupplementaryMaterialS3_EUCA_Dataset/EUCA_Dataset.zip)
+[EUCA dataset zip file for download](https://github.com/weinajin/euca/blob/master/EUCA_dataset_quantitative_and_qualitative_data.zip)
 
 ----------------
 
@@ -37,7 +37,7 @@ car - Buying an autonomous driving vehicle
 health - Personal health decision
 bird - Learning bird species
 
-Please refer to [EUCA quantatative data analysis report](https://github.com/weinajin/euca/blob/master/SupplementaryMaterialS3_EUCA_Dataset/SupplementaryMaterialS2_UserStudy.pdf) for the storyboard of the tasks and explanation goals presented in the user study.
+Please refer to [EUCA quantatative data analysis report](https://github.com/weinajin/euca/blob/master/paper/SupplementaryMaterialS2_UserStudy.pdf) for the storyboard of the tasks and explanation goals presented in the user study.
 
 ### [2]  [Explanation goal](goal.md)
 
@@ -114,7 +114,7 @@ The following 12 explanation forms are end-user-friendly, i.e.: no technical kno
     * Decision Tree - dt
     * Decision Flow - df
 
-* [Supplementary Information](explanation_form.md/#suppl)
+* [Contextual Information](explanation_form.md/#suppl)
     * Input
     * Output
     * Performance
@@ -122,14 +122,14 @@ The following 12 explanation forms are end-user-friendly, i.e.: no technical kno
 
 Note: occasionally there is a wild card, which means the participant draw the card by themselves. It is indicated as 'wc'.
 
-For visual examples of each explanation form card, please refer to the [Explanatory_form_labels.pdf](https://github.com/weinajin/euca/blob/master/SupplementaryMaterialS3_EUCA_Dataset/EUCA_explanation_form_labels.pdf) document.
+For visual examples of each explanation form card, please refer to the [Explanatory_form_labels.pdf](https://github.com/weinajin/euca/blob/master/EUCA_dataset_quantitative_and_qualitative_data/EUCA_quantitative_dataset/EUCA_explanation_form_labels.pdf) document.
 
 [Link to the details on users' requirements on different explanation forms](explanation_form.md)
 
 ## Code and report for EUCA data quantatitve analysis
 
-* [EUCA data analysis code](https://github.com/weinajin/euca/tree/master/SupplementaryMaterialS4_EUCA_data_analysis_code)
-* [EUCA quantatative data analysis report](https://github.com/weinajin/euca/blob/master/SupplementaryMaterialS3_EUCA_Dataset/SupplementaryMaterialS2_UserStudy.pdf)
+* [EUCA data analysis code](https://github.com/weinajin/euca/tree/master/EUCA_dataset_quantitative_and_qualitative_data/quantitative_data_analysis_code)
+* [EUCA quantatative data analysis report](https://github.com/weinajin/euca/blob/master/paper/SupplementaryMaterialS2_UserStudy.pdf)
 
 ## EUCA data citation
 

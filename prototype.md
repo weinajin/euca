@@ -9,7 +9,7 @@
 The input data and feature format need to be human-understandable, so that end-users can interpret the explanations which are formed by features, examples, or rules.
 
 ### 1.2 Get familiar with the [end-user-friendly explanation forms](explanation_form.md)  
-There are 12 end-user-friendly explanatory types in the EUCA framework. They are grouped into four categories: explaining using features, examples, rules, and supplementary information. The explanatory types are building blocks, and you can combine them to construct your end-user-oriented XAI prototype.
+There are 12 end-user-friendly explanation forms in the EUCA framework. They are grouped into four categories: explaining using features, examples, rules, and contextual information. The explanation forms are building blocks, and you can combine them to construct your end-user-oriented XAI prototype.
 
 ### 1.3 Manually extracting several interpretable features
 
